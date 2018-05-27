@@ -1,0 +1,1 @@
+nohup /usr/bin/python /usr/local/py-kms/server.py >/dev/null &
